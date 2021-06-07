@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+	<artist name="Beatles">
+	  <titles>
+	  	<title>Something</title>
+		<title>Penny Lane</title>
+		<title>A Day in the Life</title>
+		<title>She Loves You</title>
+
+	  </titles>	
+	</artist>
